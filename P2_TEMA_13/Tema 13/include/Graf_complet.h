@@ -3,7 +3,7 @@
 #include "Graf.h"
 using namespace std;
 
-class Graf_complet: virtual public Graf{
+class Graf_complet: public virtual Graf{
 protected:
     int nr_muchii;
 public:
