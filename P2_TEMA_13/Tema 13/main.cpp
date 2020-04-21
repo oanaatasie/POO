@@ -34,9 +34,9 @@ int main()
         cin>>C;
         cout<<C<<endl;
         D=C;
-        cout<<D<<endl;
-        cout<<"Este sau nu graful turneu: "<<D.grafeturneu()<<endl;
         D.afisare_arce();
+        cout<<"Este sau nu graful turneu: "<<D.grafeturneu()<<endl;
+        cout<<D<<endl;
 
     }
     catch (runtime_error &e)
