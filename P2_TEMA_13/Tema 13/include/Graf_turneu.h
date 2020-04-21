@@ -1,6 +1,5 @@
 #ifndef GRAF_TURNEU_H
 #define GRAF_TURNEU_H
-#include "Graf_turneu.h"
 #include "Graf_complet.h"
 #include "Graf_antisimetric.h"
 using namespace std;
