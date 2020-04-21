@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1587481168 source:c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\tema 13\tema 13\main.cpp
+	<iostream>
+	<cstring>
+	"Matrice.h"
+	"Graf.h"
+	"Graf_complet.h"
+	"Graf_antisimetric.h"
+	"Graf_turneu.h"
+
+1586534774 c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\tema 13\tema 13\include\matrice.h
+
+1586521447 c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\tema 13\tema 13\include\graf.h
+
+1586534774 c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\tema 13\tema 13\include\graf_complet.h
+	"Graf.h"
+
+1586620006 c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\tema 13\tema 13\include\graf_antisimetric.h
+	"Matrice.h"
+	"Graf.h"
+
+1586620972 c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\tema 13\tema 13\include\graf_turneu.h
+	"Graf_turneu.h"
+	"Graf_complet.h"
+	"Graf_antisimetric.h"
+
+1586620695 source:c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\tema 13\tema 13\src\graf.cpp
+	<iostream>
+	"Graf.h"
+
+1586620972 source:c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\tema 13\tema 13\src\graf_antisimetric.cpp
+	<iostream>
+	"Graf_antisimetric.h"
+
+1586619893 source:c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\tema 13\tema 13\src\graf_complet.cpp
+	<iostream>
+	"Graf_complet.h"
+
+1587480938 source:c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\tema 13\tema 13\src\graf_turneu.cpp
+	<iostream>
+	"Graf_turneu.h"
+
+1586621175 source:c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\tema 13\tema 13\src\matrice.cpp
+	<iostream>
+	"Matrice.h"
+
+1587481168 source:c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\p2_tema_13\tema 13\main.cpp
+	<iostream>
+	<cstring>
+	"Matrice.h"
+	"Graf.h"
+	"Graf_complet.h"
+	"Graf_antisimetric.h"
+	"Graf_turneu.h"
+
+1586534774 c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\p2_tema_13\tema 13\include\matrice.h
+
+1586521447 c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\p2_tema_13\tema 13\include\graf.h
+
+1586534774 c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\p2_tema_13\tema 13\include\graf_complet.h
+	"Graf.h"
+
+1586620006 c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\p2_tema_13\tema 13\include\graf_antisimetric.h
+	"Matrice.h"
+	"Graf.h"
+
+1586620972 c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\p2_tema_13\tema 13\include\graf_turneu.h
+	"Graf_turneu.h"
+	"Graf_complet.h"
+	"Graf_antisimetric.h"
+
+1586620695 source:c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\p2_tema_13\tema 13\src\graf.cpp
+	<iostream>
+	"Graf.h"
+
+1586620972 source:c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\p2_tema_13\tema 13\src\graf_antisimetric.cpp
+	<iostream>
+	"Graf_antisimetric.h"
+
+1586619893 source:c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\p2_tema_13\tema 13\src\graf_complet.cpp
+	<iostream>
+	"Graf_complet.h"
+
+1587480938 source:c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\p2_tema_13\tema 13\src\graf_turneu.cpp
+	<iostream>
+	"Graf_turneu.h"
+
+1586621175 source:c:\users\diana\desktop\facultate\anul i, sem. 2\poo\laborator\tema 2\p2_tema_13\tema 13\src\matrice.cpp
+	<iostream>
+	"Matrice.h"
+
